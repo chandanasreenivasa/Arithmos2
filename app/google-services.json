@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221601524432",
+    "firebase_url": "https://arithmos-fe6a9.firebaseio.com",
+    "project_id": "arithmos-fe6a9",
+    "storage_bucket": "arithmos-fe6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221601524432:android:105c6bf05ad4dcd0",
+        "android_client_info": {
+          "package_name": "com.example.chandanasrinivas.arithmos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221601524432-at0bmcv3dts1kkh8upl0f2l7rjv4clma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chandanasrinivas.arithmos",
+            "certificate_hash": "2f27c1e6880e8380619a7bca384e949cff851e59"
+          }
+        },
+        {
+          "client_id": "221601524432-phqd5gdku544bpl1mjumdrr65jo3q68c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1znQNLtHFZR_jayuuA5rjXrli16lLYx0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221601524432-phqd5gdku544bpl1mjumdrr65jo3q68c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
